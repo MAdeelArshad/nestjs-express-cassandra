@@ -61,4 +61,8 @@
     "nodejs",
     "javascript"
   ]
+
+,"_resolved": "https://registry.npmjs.org/@ouato/nestjs-express-cassandra/-/nestjs-express-cassandra-6.0.1.tgz"
+,"_integrity": "sha512-FN0gTcqUq2a2CnIVba/0QjqVuZeOVBcLBybeZzXSHtAFiHHeRw3hX4+qbx/rsvfouXxEXmgbUZ228NXLsxhRAA=="
+,"_from": "@ouato/nestjs-express-cassandra@6.0.1"
 }
